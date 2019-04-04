@@ -106,6 +106,8 @@ include:
 
 ### Features
 
+Reference: http://kangax.github.io/compat-table/es5/
+
 #### Strict mode
 
 Simply switch to strict mode by adding `'use strict'` at the top of the file. You can also switch to
